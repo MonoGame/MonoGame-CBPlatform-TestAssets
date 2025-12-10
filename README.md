@@ -1,1 +1,0 @@
-# MonoGame-CBPlatform-Assets
